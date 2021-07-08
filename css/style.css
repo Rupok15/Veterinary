@@ -349,3 +349,13 @@ header{
 .search{
 	text-align: right;
 }
+.veterinarian i{
+	margin-top: 10px;
+    border: 2px solid blue;
+    border-radius: 100%;
+    padding: 8px 13px;
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
