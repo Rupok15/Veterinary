@@ -349,7 +349,7 @@ header{
 .search{
 	text-align: right;
 }
-.veterinarian i{
+.veterinarian a{
 	margin-top: 10px;
     border: 2px solid blue;
     border-radius: 100%;
@@ -358,4 +358,7 @@ header{
     text-align: center;
     color: white;
     background-color: blue;
+}
+.veterinarian i{
+	margin-top: 15px;
 }
